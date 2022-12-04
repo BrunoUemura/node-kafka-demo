@@ -1,4 +1,4 @@
-# Microservices Architecture Demo
+# Node.js Kafka Demo
 An asynchronous communication example.
 
 ## How to run
